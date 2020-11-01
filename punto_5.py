@@ -13,5 +13,4 @@ else:
     suma = num1 + num2 + num3
     print('La suma de los tres numeros ingresados es de ' + str(suma))
 
-
-
+ 
